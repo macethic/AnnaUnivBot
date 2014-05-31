@@ -60,7 +60,7 @@ print "Entered into Students portal......"
 print "Navigating to 'Exam Results' tab......."
 br.select_form(name = "formExamResults")
 response = br.submit()
-
+#print response.read() Uncomment this line to get the html of the exam results page for scrapping
 
 # Scrapping results
 supersoup = BeautifulSoup(response.read())
