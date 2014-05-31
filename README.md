@@ -12,3 +12,6 @@ Further improvements on process. <br>
 -Getting a set of credentials from text file and do batch processing 
 
 Feel free to fork and contribute.
+
+Watch the terminal cast here : <br>
+https://asciinema.org/a/9890
