@@ -9,7 +9,8 @@ Further improvements on process. <br>
 -Exceptions when wrong credentials are entered <br>
 -Scrapping the required semester marks <br>
 -Saving them to a .csv <br>
--Getting a set of credentials from text file and do batch processing 
+-Getting a set of credentials from text file and do batch processing <br>
+-GPA/CGPA calculations etc.
 
 Feel free to fork and contribute.
 
